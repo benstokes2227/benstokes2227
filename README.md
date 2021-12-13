@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### 🔭 I’m currently learning these technologies 
-- HTML
-- CSS
-- BOOTSTRAP
-- JAVA SCRIPT
+- WEB DESINGING USING
+ -HTML
+ - CSS
+ - BOOTSTRAP
+ - JAVA SCRIPT
 
