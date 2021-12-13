@@ -1,4 +1,4 @@
-# Hi there i'm naveen mallipudi 👋
+# Hi there i'm Naveen Mallipudi 👋
 
 <!--
 **benstokes2227/benstokes2227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
