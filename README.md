@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### 🔭 I’m currently learning these technologies 
--naveen
--mallipudi
+- naveen
+- mallipudi
 
