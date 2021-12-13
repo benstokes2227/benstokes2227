@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### 🔭 I’m currently learning these technologies 
+### 🔭 I’m currently learning these technologies 
 - WEB DESINGING USING
    - HTML
    - CSS
