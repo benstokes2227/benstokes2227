@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 ##### 🔭 I’m currently learning these technologies 
 - WEB DESINGING USING
-   JAVA SCRIPT
-   BOOT STRAP
+   - JAVA SCRIPT
+   - BOOT STRAP
 
