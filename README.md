@@ -21,4 +21,12 @@ Here are some ideas to get you started:
    - CSS
    - JAVA SCRIPT
    - BOOT STRAP
+- TOOLS
+   - MATLAB
+   - GIT HUB
+- LANGUAGES
+   - C-LANGUAGE
+   - PYTHON
+-DATABASE
+   -SQL 
 
