@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 -DATABASE
    -SQL 
 ### EDUCATIONAL DETAILS
+- Bachelor of technology in Electrical and Electronics Engineering 
+- Diploma in Electrical and  Electronics Engineering
+- SSC 
